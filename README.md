@@ -19,7 +19,6 @@
 
 <!-- 打字效果 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&width=435&lines=Welcome+to+my+world+of+code!;Building+cool+projects+every+day!;Let's+create+something+awesome!" />
-
 </div>
 
 ---
