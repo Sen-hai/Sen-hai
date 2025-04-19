@@ -17,10 +17,20 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-<!-- 动态打字效果 -->
+<!-- 打字效果 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&width=435&lines=Welcome+to+my+world+of+code!;Building+cool+projects+every+day!;Let's+create+something+awesome!" />
 
 </div>
+
+---
+
+## 📚 Table of Contents
+
+- [📊 My GitHub Stats](#-my-github-stats)
+- [🏆 GitHub Trophies](#-github-trophies)
+- [📌 Featured Projects](#-featured-projects)
+- [🌍 3D Contribution Graph](#-3d-contribution-graph)
+- [📫 Contact Me](#-contact-me)
 
 ---
 
@@ -33,23 +43,44 @@
 
 ---
 
-## 🧠 Technologies I Love
+## 🏆 GitHub Trophies
 
-- 🌐 **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-- 🧰 **Backend:** Node.js, Express, Golang  
-- 🗃️ **Database:** MongoDB, PostgreSQL  
-- ☁️ **Others:** Git, Docker, RESTful APIs, Web3
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sen-hai&theme=monokai&no-bg=true&no-frame=true&column=7" />
+</div>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| 🧾 **CertiBlock** | React, Express, Web3 | A blockchain-based certification system with NFT identity |
+| 🎨 **My Portfolio** | Next.js, Tailwind CSS | Personal site with project showcase and blog |
+| 🔐 **SmartNFT Market** | Solidity, React | A full-featured NFT trading dApp |
+
+> 👷 More awesome things coming soon...
+
+---
+
+## 🌍 3D Contribution Graph
+
+> 实时动态加载你的提交图，立体炫酷！
+
+<div align="center">
+  <img src="https://github.com/Sen-hai/Sen-hai/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
+
+> 👉 教程地址：[GitHub 3D 贡献图插件](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 ---
 
 ## 📫 Contact Me
 
 - 💼 GitHub: [@Sen-hai](https://github.com/Sen-hai)
-- 🧠 Blog (Coming Soon...)
-- 📬 Feel free to reach out and collaborate!
+- 🌐 Portfolio: *Coming Soon*
+- 🤝 Let's connect and build something amazing!
 
 ---
 
-<!-- 页脚动画 -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=150&section=footer)
-
