@@ -24,63 +24,23 @@
 
 ---
 
-## 📚 Table of Contents
+## 🧠 Technologies I Love
 
-- [📊 My GitHub Stats](#-my-github-stats)
-- [🏆 GitHub Trophies](#-github-trophies)
-- [📌 Featured Projects](#-featured-projects)
-- [🌍 3D Contribution Graph](#-3d-contribution-graph)
-- [📫 Contact Me](#-contact-me)
-
----
-
-## 📊 My GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sen-hai&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sen-hai&layout=compact&langs_count=8&theme=radical" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sen-hai&theme=monokai&no-bg=true&no-frame=true&column=7" />
-</div>
-
----
-
-## 📌 Featured Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 🧾 **CertiBlock** | React, Express, Web3 | A blockchain-based certification system with NFT identity |
-| 🎨 **My Portfolio** | Next.js, Tailwind CSS | Personal site with project showcase and blog |
-| 🔐 **SmartNFT Market** | Solidity, React | A full-featured NFT trading dApp |
-
-> 👷 More awesome things coming soon...
-
----
-
-## 🌍 3D Contribution Graph
-
-> 实时动态加载你的提交图，立体炫酷！
-
-<div align="center">
-  <img src="https://github.com/Sen-hai/Sen-hai/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
-
-> 👉 教程地址：[GitHub 3D 贡献图插件](https://github.com/yoshi389111/github-profile-3d-contrib)
+- 🌐 **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+- 🧰 **Backend:** Node.js, Express, Golang  
+- 🗃️ **Database:** MongoDB, PostgreSQL  
+- ☁️ **Others:** Git, Docker, RESTful APIs, Web3
 
 ---
 
 ## 📫 Contact Me
 
 - 💼 GitHub: [@Sen-hai](https://github.com/Sen-hai)
-- 🌐 Portfolio: *Coming Soon*
-- 🤝 Let's connect and build something amazing!
+- 🧠 Blog (Coming Soon...)
+- 📬 Feel free to reach out and collaborate!
 
 ---
 
+<!-- 页脚动画 -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=150&section=footer)
+
